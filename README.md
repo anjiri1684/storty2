@@ -1,1 +1,1 @@
-# storty2
+This is my story.
